@@ -19,8 +19,8 @@
   },
   "autoload": {
     "psr-4": {
-      "PhpLab\\InfoBot\\": "src",
-      "PhpLab\\InfoBot\\Tests\\": "tests"
+      "ZnFixture\\InfoBot\\": "src",
+      "ZnFixture\\InfoBot\\Tests\\": "tests"
     }
   }
 }
